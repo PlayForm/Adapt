@@ -1,9 +1,8 @@
 # 🔌 [Adapt]
 
-`Adapt` tweaks your `package.json` before installing dependencies. It gives you
-the option to choose how to deal with a `peerDependency` used in other packages
-connected either upstream or downstream. This helps avoid any clashes or
-inconsistencies in how dependencies are handled.
+`Adapt` modifies your `package.json` on preinstall and allows you to choose a
+strategy when using a `peerDependency` in an upstream or downstream packages to
+avoid inconsistencies.
 
 ## Installation
 
