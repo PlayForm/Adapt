@@ -1,7 +1,7 @@
 # 🔌 [Adapt]
 
-Playform Adapt allows you to choose a strategy when using peer dependencies in
-upstream or downstream packages.
+Playform Adapt allows you to choose a strategy when using a `peerDependency` in
+upstream or downstream packages to avoid inconsistencies.
 
 ## Installation
 
