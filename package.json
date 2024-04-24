@@ -8,19 +8,19 @@
 		"package",
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/Playform/Adapt#readme",
+	"homepage": "HTTPS://GitHub.Com/PlayForm/Adapt#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/Playform/Adapt/issues"
+		"url": "HTTPS://GitHub.Com/PlayForm/Adapt/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/Playform/Adapt.git"
+		"url": "git+HTTPS://github.com/PlayForm/Adapt.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "⛲ Source ⁄ 🚪 Open —",
-		"email": "Source/Open@Playform.Cloud",
-		"url": "HTTPS://Playform.Cloud"
+		"email": "Source/Open@PlayForm.Cloud",
+		"url": "HTTPS://PlayForm.Cloud"
 	},
 	"type": "module",
 	"main": "./Target/Class/Adapt.js",
