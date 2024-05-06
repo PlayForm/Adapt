@@ -1,4 +1,4 @@
-# 🔌 — [Adapt] —
+# 🔌 [Adapt] —
 
 `Adapt` modifies the `package.json` on preinstall and allows you to choose a
 strategy when using a `peerDependency` in an upstream or downstream packages to
