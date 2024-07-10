@@ -29,10 +29,11 @@
 		"Adapt": "Target/Class/Adapt.js"
 	},
 	"scripts": {
+		"Run": "Build 'Source/**/*.ts' -W",
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"dependencies": {
-		"@playform/build": "0.0.11"
+		"@playform/build": "0.1.0"
 	},
 	"publishConfig": {
 		"access": "public"
