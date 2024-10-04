@@ -1,3 +1,5 @@
+import type Interface from "../Interface/Adapt.js";
+
 /**
  * @module Adapt
  *
@@ -5,8 +7,6 @@
 export default (async (
 	...[_File]: Parameters<Interface>
 ) => {}) satisfies Interface as Interface;
-
-import type Interface from "../Interface/Adapt.js";
 
 export const { default: Exec } = await import("@Function/Exec.js");
 
