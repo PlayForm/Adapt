@@ -3,5 +3,5 @@
  *
  */
 export default interface Interface {
-    (): Promise<void>;
+	(): Promise<void>;
 }
