@@ -47,4 +47,4 @@ Place `Adapt` in your `package.json` `dependencies` and configure the
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for a history of changes to this component.
+See [`CHANGELOG.md`](CHANGELOG.md) for a history of changes to this component.
