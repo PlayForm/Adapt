@@ -7,7 +7,7 @@
 export default new (await import("commander")).Command()
 	.name("Adapt")
 	.version(process.env["VERSION_PACKAGE"] ?? "0.0.1")
-	.description("🔌 Adapt.")
-	.argument("<File...>", "File.")
+	.description("Adapt 🔌")
+	.argument("<File...>", "File 📝")
 	.action((await import("@Function/Adapt.js")).default)
 	.parse();
