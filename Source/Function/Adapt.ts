@@ -12,6 +12,6 @@ export const { resolve } = await import("node:path");
 
 export const Pipe: string[] = [];
 
-export const Current = (await import("url")).fileURLToPath(
+export const Current = (await import("node:url")).fileURLToPath(
 	(await import("node:path")).dirname(import.meta.url),
 );
