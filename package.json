@@ -33,7 +33,7 @@
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"dependencies": {
-		"@playform/build": "0.3.3"
+		"@playform/build": "0.3.5"
 	},
 	"publishConfig": {
 		"access": "public",
